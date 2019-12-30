@@ -1,0 +1,32 @@
+﻿{
+	"version": 1577705806,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/hudbest-sheet0.png",
+		"images/hudscore-sheet0.png",
+		"images/blackline-sheet0.png",
+		"images/ground.png",
+		"images/touchup-sheet0.png",
+		"images/playerdown-sheet0.png",
+		"images/playerup-sheet0.png",
+		"images/playerhead-sheet0.png",
+		"images/background.png",
+		"images/hand-sheet0.png",
+		"images/background2000-sheet0.png",
+		"images/twinrunner-sheet0.png",
+		"images/reload-sheet0.png",
+		"media/gameover.m4a",
+		"media/gameover.ogg",
+		"media/jump.m4a",
+		"media/jump.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
